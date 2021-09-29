@@ -1,4 +1,4 @@
-# Data Challenge Starter Kit
+# Data Challenge Starter Kit & personal entry
 
 ## Introduction
 This repository contains a sample notebook to get you started on the challenge. Inside the notebook, you will find the main steps of a exploratory ML pipeline: loading the data, perform a short exploratory data analysis and modeling in order to generate predictions.
@@ -23,3 +23,7 @@ Download the data from the plateform, and put it in the data/ directory
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Personal entry
+Air Liquide & Total Energies Wind Power Data Challenge starter kit & personal notebook 
+https://datascience.total.com/fr/challenge/18/details#tab_ranking
